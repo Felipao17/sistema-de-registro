@@ -1,1 +1,1 @@
-consolo.log("ejecutando el sistema")
+consolo.log("Ejecutando el sistema")
